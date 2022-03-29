@@ -1,0 +1,8 @@
+{
+  "name": "ProjectMySQL",
+  "version": "1.0.1",
+  "description": "nothing",
+  "main": "index.js",
+  "author": "Giuseppe",
+  "license": "MIT"
+}
